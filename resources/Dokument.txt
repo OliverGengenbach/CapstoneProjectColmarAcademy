@@ -1,0 +1,6 @@
+  <div class="container100">
+    <div class="imageContainer60Left"
+      <img src="resources/images/ic-logo.svg">
+      <span1>COLMAR</span1><span2 style="color:lightgrey">ACADEMY</span2>
+        </div>
+    <div class="menu">
